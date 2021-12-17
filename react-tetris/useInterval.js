@@ -1,4 +1,4 @@
-mport { useEffect, useRef } from 'react';
+mport ;{ useEffect, useRef } from ;'react';
 
 export function useInterval(callback, delay) {
     const savedCallback = useRef();
